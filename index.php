@@ -117,7 +117,7 @@ footer { background-color: #CCCCCC;
 	<nav>
 		<ul>
 		 <li><a href="index.html">Home</a></li>
-		 <li><a href="anotherpage.html">Another Page</a></li>
+		 <li><a href="AnotherPage.html">Another Page</a></li>
 		 <li><a href="#contact">Contact</a></li>
 		</ul> 
 	   </nav>
